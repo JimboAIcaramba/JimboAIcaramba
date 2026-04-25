@@ -38,7 +38,7 @@ If you want creative solutions (and maybe a few sarcastic comments), you’re in
 
 - Email: [james.engel.iii@students.maestrocollege.edu](mailto:james.engel.iii@students.maestrocollege.edu)
 - GitHub: [JimboAIcaramba]([https://github.com/YourGitHubUsername](https://github.com/JimboAIcaramba))
-- LinkedIn: [(https://www.linkedin.com/in/james-engel-iii-a1a6353b1/)](https://www.linkedin.com/in/james-engel-iii-a1a6353b1/)]
+- LinkedIn: [[(https://www.linkedin.com/in/james-engel-iii-a1a6353b1/)](https://www.linkedin.com/in/james-engel-iii-a1a6353b1/)]
 
 ---
 
