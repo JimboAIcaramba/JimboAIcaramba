@@ -1,6 +1,6 @@
 # Hi, I’m James 👋
 
-Aspiring developer, accessibility advocate, and proud student at Maestro College.  
+Aspiring developer, accessibility advocate, and proud student at Strayer University.  
 I’m here to build creative, inclusive solutions—with a side of humor and persistence.
 
 ## About Me
@@ -36,7 +36,7 @@ Proud “outside-the-box” thinker, gamer for life, and currently studying at M
 
 If you want creative solutions (and maybe a few sarcastic comments), you’re in the right place.
 
-- Email: [james.engel.iii@students.maestrocollege.edu](mailto:james.engel.iii@students.maestrocollege.edu)
+- Email: [jimmyengel53@outlook.com]
 - GitHub: [JimboAIcaramba]([https://github.com/YourGitHubUsername](https://github.com/JimboAIcaramba))
 - LinkedIn: [[(https://www.linkedin.com/in/james-engel-iii-a1a6353b1/)](https://www.linkedin.com/in/james-engel-iii-a1a6353b1/)]
 
