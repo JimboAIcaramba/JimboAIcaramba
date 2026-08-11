@@ -16,7 +16,7 @@ I’m passionate about building tech that welcomes everyone to the table. I want
 
 ## What I’m Up To
 
-Proud “outside-the-box” thinker, gamer for life, and currently studying at Maestro College—mixing computer science, business, and AI into something a little different.
+Proud “outside-the-box” thinker, gamer for life, and currently studying at Strayer University—mixing computer science, business, and AI into something a little different.
 
 ## Projects
 
